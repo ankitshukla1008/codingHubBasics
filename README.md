@@ -1,4 +1,4 @@
 # codingHubBasics
 "Welcome to my codingHubBasics repository, the home of my coding journey! 
 <br>
-This repository is where I'll be sharing my beginner-level projects and code experiments as I learn and grow as a developer. Join me on this exciting adventure, and together, let's explore the world of coding, one step at a time."
+In this repository, I'll be sharing a collection of beginner-level projects, code experiments, and tutorials as I learn and evolve as a developer. Join me on this thrilling adventure as we navigate the world of coding, starting with the fundamentals and progressing towards more exciting challenges. Together, let's unlock the power of code, one step at a time."
